@@ -3,7 +3,7 @@ Faculty: [FTMI](https://ftmi.itmo.ru/)
 Course: [Cloud platforms as the basis of technology entrepreneurship](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)
 Year: 2024
 Group: U4125
-Author: Konyahin Ivan Michailovich
+Author: Kharchenko Ivan Vasilyevich
 Lab: Lab2
 Date of create: 14.10.2024
 Date of finished: 10.14.2024
