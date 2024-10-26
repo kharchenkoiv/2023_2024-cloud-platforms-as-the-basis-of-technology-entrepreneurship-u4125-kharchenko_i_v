@@ -10,7 +10,7 @@ Date of finished: 11.10.2024
 
 ## Шаг 1. 
 Зашел в Google Cloud, во вкладку IAM, в раздел Service Accounts. Через кнопку Create Service Account открыл интерфейс создания пользовательского доступа к серверам.
-Назвал доступ "ikonyahin-sa-lab1" и назначил доступ Service admin.
+Назвал доступ "ikharchenko-sa-lab1" и назначил доступ Service admin.
 
 ## Шаг 2.
 Зашел во вкладку Computee Engine, в раздел VM Instances. Нажал на кнопку Create Instance. Задал название для виртуалки, выбрал конфигурацию type e2-micro в режиме spot. Выбрал администратора (того самого из шага 1).
